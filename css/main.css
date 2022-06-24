@@ -1,0 +1,107 @@
+/* CSS Document */
+.header{
+	padding: 24px 0;
+}
+.xanhduong{
+	background-color:#C37879;
+	
+}
+
+.logo a{
+	font-size: 16px;
+	color:#5D1213;
+	text-decoration:none;
+}
+.nav ul{
+	list-style: none;
+}
+.nav il{
+	margin: 0 16px;
+}
+.logo il a{
+	margin: 0 16px;
+}
+.nav il a{
+	text-decoration: none;
+	color:#5D1213;
+}
+.nav il a:hover{
+	opacity: 0.5;
+	color:#0063BF;
+}
+.btn{
+	font-size: 24;
+	color:#F58284;
+	text-decoration: none;
+	background: #48AFE8;
+	padding: 12px;
+	border: 2px solid #F58284;
+	margin-top: 24px;
+}
+.banner h5{
+	margin-bottom: 32px;
+}
+.banner a:hover{
+	color:#FF1216;
+	opacity: 0.5;
+}
+
+.box1{
+	background:url(../meo.jpg);
+	height: 360px;
+	background-size: cover;
+	background-position:center;
+	padding: 180px 0;}
+.box2{
+	background:url( ../nhan1.jpg);
+	height: 360px;
+	text-align:center;
+	background-size: cover;
+	background-position:center;
+	padding: 180px 0;
+	
+}
+.box3{
+	background:url( ../nhan2.jpg);
+	height: 360px;
+	text-align:center;
+	background-size: cover;
+	background-position:center;
+	padding: 180px 0;
+}
+.box4{
+	background:url( ../nhan3.jpg);
+	height: 360px;
+	text-align:center;
+	background-size: cover;
+	background-position:center;
+	padding: 180px 0;
+}
+.bestseller h1{
+	text-align: center;
+	color:#733032;
+	margin: 24px 0;
+}
+.textshop{
+	text-align: center;
+	color:#733032;
+	margin: 24px 0;}
+	
+.anhshop{
+	background-size: cover;
+	background-position:center;
+	padding: 180px 0;
+	background-image: url(../shop.jpg);
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+}
+.box5{
+	background:url(../nhan5.jpg);
+	height: 360px;
+	background-size: cover;
+	background-position:center;
+	padding: 180px 0;}
+.den{
+    background-color: #B24E50;
+	height: 120px;
+}
